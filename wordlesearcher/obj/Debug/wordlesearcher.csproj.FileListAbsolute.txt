@@ -1,0 +1,14 @@
+D:\Documents\윈폼\wordlesearcher\wordlesearcher\bin\Debug\wordlesearcher.exe.config
+D:\Documents\윈폼\wordlesearcher\wordlesearcher\bin\Debug\wordlesearcher.exe
+D:\Documents\윈폼\wordlesearcher\wordlesearcher\bin\Debug\wordlesearcher.pdb
+D:\Documents\윈폼\wordlesearcher\wordlesearcher\obj\Debug\wordlesearcher.csproj.AssemblyReference.cache
+D:\Documents\윈폼\wordlesearcher\wordlesearcher\obj\Debug\wordlesearcher.csproj.SuggestedBindingRedirects.cache
+D:\Documents\윈폼\wordlesearcher\wordlesearcher\obj\Debug\wordlesearcher.Form1.resources
+D:\Documents\윈폼\wordlesearcher\wordlesearcher\obj\Debug\wordlesearcher.Properties.Resources.resources
+D:\Documents\윈폼\wordlesearcher\wordlesearcher\obj\Debug\wordlesearcher.csproj.GenerateResource.cache
+D:\Documents\윈폼\wordlesearcher\wordlesearcher\obj\Debug\wordlesearcher.csproj.CoreCompileInputs.cache
+D:\Documents\윈폼\wordlesearcher\wordlesearcher\obj\Debug\wordlesearcher.exe
+D:\Documents\윈폼\wordlesearcher\wordlesearcher\obj\Debug\wordlesearcher.pdb
+D:\Documents\윈폼\wordlesearcher\wordlesearcher\bin\Debug\NetSpell.SpellChecker.dll
+D:\Documents\윈폼\wordlesearcher\wordlesearcher\bin\Debug\NetSpell.SpellChecker.xml
+D:\Documents\윈폼\wordlesearcher\wordlesearcher\obj\Debug\wordlesearcher.csproj.CopyComplete
